@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/d16ebf2a-a703-4e43-8124-fade98f07449" />
-# Ex.No:2 To create a HelloWorld Activity using all lifecycles methods to display messages.
+# Ex.No:1 To create a HelloWorld Activity using all lifecycles methods to display messages.
 
 
 ## AIM:
